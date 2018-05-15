@@ -7,5 +7,5 @@ This is my playground to learn more about:
 - debug on my phone
 
 # This program
-this is a little tool that convert (during input) between decimal, hexadecimal and binary presentation of a number.
+this is a little tool, that convert (during input) between decimal, hexadecimal and binary presentation of a number.
 Any base can be used as input.
